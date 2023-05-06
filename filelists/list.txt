@@ -1,24 +1,39 @@
-wavs/ztt-萝莎莉娅变的越来越强了。.wav|羅莎莉亞變得越來越強了
-wavs/ztt-演出开始！.wav|演出開始
-wavs/ztt-莉莉娅...不能陪你了....wav|莉莉娅,不能陪你了。
-wavs/ztt-嗯...该往哪走呢？.wav|嗯?该往哪儿走呢?
-wavs/ztt-没有姐姐的照顾，莉莉娅一定会哭鼻子的吧。.wav|沒有姐姐的照顧,莉莉一定會哭鼻子的吧
-wavs/ztt-要跟上我哦，舰长。.wav|要跟唱哦,艰长!
-wavs/ztt-我...我想要零花钱。.wav|我 我想要零花钱
-wavs/ztt-萝莎莉娅，闪亮登场。.wav|羅沙莉亞閃亮登場
-wavs/ztt-莉莉娅长得很可爱，我们站在一起，都分不出谁是谁呢。.wav|莉莉娅長得很可愛,我們站在一起都分不出誰是誰了呢。
-wavs/ztt-要换上这件作战服吗？.wav|要換上這件作戰服嗎?
-wavs/ztt-舰长，好好看着我的表现吧。.wav|艦長好好看著我的表現吧!
-wavs/ztt-萝莎莉娅，登场。.wav|羅莎莉亞登場!
-wavs/ztt-有新衣服穿了，耶！.wav|有新衣服穿嗎
-wavs/ztt-致命一击！.wav|致命一擊
-wavs/ztt-超级头槌！.wav|超级头锤
-wavs/ztt-我已经吃饱了。.wav|我已經吃飽了。
-wavs/ztt-一群爱捣乱的小坏蛋们。.wav|一群愛搗蛋的小壞蛋們
-wavs/ztt-现在是阿琳涅娃时间！.wav|现在是阿玲念娃时间
-wavs/ztt-莉莉娅又去哪了？该去彩排下一场表演了。.wav|莉莉亞又去哪兒了?該去彩排下一場表演了。
-wavs/ztt-舰长，我是不是比莉莉娅更可爱？.wav|艦長,我是不是比莉莉亞更可愛?
-wavs/ztt-萝莎莉娅正在移动。.wav|羅莎莉亞正在移動
-wavs/ztt-萝莎莉娅不会输给任何人。.wav|羅莎莉婭不會輸給任何人
-wavs/ztt-伏特加女孩，今日演出成功！.wav|福特家女孩今日演出成功
-wavs/ztt-好大的地方，想玩捉迷藏了。.wav|好大的地方,想玩捉迷藏啦
+wavs/processed_0.wav|v_f_short|[ZH]你有没有非常规的玩意儿在市里找不到的那种[ZH]
+wavs/processed_1.wav|v_f_short|[ZH]作为一体医生,你也太年轻了吧[ZH]
+wavs/processed_2.wav|v_f_short|[ZH]什、什么?Semenola?[ZH]
+wavs/processed_3.wav|v_f_short|[ZH]有沒有哪把槍是我不應該買的[ZH]
+wavs/processed_4.wav|v_f_short|[ZH]越来越多的河谷区居民都生病了是真的吗[ZH]
+wavs/processed_5.wav|v_f_short|[ZH]自己挑[ZH]
+wavs/processed_6.wav|v_f_short|[ZH]看来今天你这儿的客人不算多啊[ZH]
+wavs/processed_7.wav|v_f_short|[ZH]我想醒醒腦子,有多采些尾獅嗎?[ZH]
+wavs/processed_8.wav|v_f_short|[ZH]難道不喝得醉點兒就進不了葉之誠嗎[ZH]
+wavs/processed_9.wav|v_f_short|[ZH]你这儿有什么好吃的吗[ZH]
+wavs/processed_10.wav|v_f_short|[ZH]这什么味儿是水果吗等等洗洁精味[ZH]
+wavs/processed_11.wav|v_f_short|[ZH]我覺得有點餓[ZH]
+wavs/processed_12.wav|v_f_short|[ZH]我想看看你這兒有什麼貨[ZH]
+wavs/processed_13.wav|v_f_short|[ZH]高一點可以,但你要想宰我一刀,那沒戲。[ZH]
+wavs/processed_14.wav|v_f_short|[ZH]你賣的是什麼[ZH]
+wavs/processed_15.wav|v_f_short|[ZH]我猜你这里生意很不错[ZH]
+wavs/processed_16.wav|v_f_short|[ZH]只要看,如果經驗遠超年紀,那就無所謂。[ZH]
+wavs/processed_17.wav|v_f_short|[ZH]我能不能問問你為什麼走?摩爾科技對自家工程師很大方呀[ZH]
+wavs/processed_18.wav|v_f_short|[ZH]这还差不多 拿着[ZH]
+wavs/processed_19.wav|v_f_short|[ZH]你是在卖衣服还是在捡衣服况撇一眼谁知道啊[ZH]
+wavs/processed_20.wav|v_f_short|[ZH]有什么有意思的货[ZH]
+wavs/processed_21.wav|v_f_short|[ZH]你这儿有什么货 要好东西我能瞧得上的[ZH]
+wavs/processed_22.wav|v_f_short|[ZH]我再给你条路选要么你免费给我要么我就赏你颗子弹[ZH]
+wavs/processed_23.wav|v_f_short|[ZH]这锈不拉几的废铁卖这么贵不过行吧 我要了[ZH]
+wavs/processed_24.wav|v_f_short|[ZH]嗨,嗯,你得幫我一下[ZH]
+wavs/processed_25.wav|v_f_short|[ZH]菜单上有什么[ZH]
+wavs/processed_26.wav|v_f_short|[ZH]到你這兒來的大多數客人都是路過的嗎?[ZH]
+wavs/processed_27.wav|v_f_short|[ZH]怎么说他们每周都来买把新枪[ZH]
+wavs/processed_28.wav|v_f_short|[ZH]好 我要說的話跟你講[ZH]
+wavs/processed_29.wav|v_f_short|[ZH]你這兒有什麼好貨[ZH]
+wavs/processed_30.wav|v_f_short|[ZH]等一下这不是武士乐队第一次演出的地方吗[ZH]
+wavs/processed_31.wav|v_f_short|[ZH]我要來一杯[ZH]
+wavs/processed_32.wav|v_f_short|[ZH]你賣的是新的還是二手的[ZH]
+wavs/processed_33.wav|v_f_short|[ZH]你这儿的布置看着不错[ZH]
+wavs/processed_34.wav|v_f_short|[ZH]我來看看有沒有新議題[ZH]
+wavs/processed_35.wav|v_f_short|[ZH]我想看看你們的菜單[ZH]
+wavs/processed_36.wav|v_f_short|[ZH]你能卖点什么[ZH]
+wavs/processed_37.wav|v_f_short|[ZH]我想買點合適的外套[ZH]
+wavs/processed_38.wav|v_f_short|[ZH]我在找一個訓練機器人聽說他有可能過過你的手[ZH]
