@@ -20,8 +20,8 @@
       "c_kl": 1.0
     },
     "data": {
-      "training_files": "list.txt",
-      "validation_files": "list_val.txt",
+        "training_files":"filelists/list.txt.cleaned",
+        "validation_files":"filelists/list_val.txt.cleaned",
       "text_cleaners": [
         "cjke_cleaners2"
       ],
